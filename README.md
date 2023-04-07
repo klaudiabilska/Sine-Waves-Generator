@@ -1,10 +1,7 @@
 ![](./screen.png)
 
 
-### Links
-
-- Solution URL: [Live Site URL:](sinewavebilska.netlify.app)
-
+### [Live Site URL:](sinewavebilska.netlify.app)
 
 
 ### Built with
@@ -14,5 +11,5 @@
 - Dat GUI
 
 
-- Based on this [this tutorial](https://www.youtube.com/watch?v=VNmTubIDZOY)
+Based on this [this tutorial](https://www.youtube.com/watch?v=VNmTubIDZOY)
 
