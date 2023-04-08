@@ -1,7 +1,7 @@
 ![](./screen.png)
 
 
-### [Live Site URL](sinewavebilska.netlify.app)
+### [Live Site URL](https://sinewavebilska.netlify.app/)
 
 
 ### Built with
